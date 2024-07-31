@@ -33,7 +33,7 @@ This project is a frontend application built with React and TypeScript.
 
     Clone the repository
     cd hypercare-fe-assignment    
-    npm install
+    npm install --legacy-peer-deps
 
 ### Running the app
 
