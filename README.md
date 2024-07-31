@@ -49,3 +49,24 @@ You will also see any lint errors in the console.
 
     To run the test suite,
     npm test
+
+### Test Coverage
+
+Tests cover various components and functionalities including:
++ App Component
++ HomePage Component
++ LazyLoadImage Component
++ PageWrapper Component
++ ResultsInfo Component
++ UserCard Component
++ UserModal Component
+
+### Additional Notes
++ Code Readability: Emphasis was placed on code readability and structure.
++ Performance Considerations: Implemented lazy loading for images and optimized infinite scrolling.
++ This project uses ESLint for code linting
++ The application is set up to work with modern browsers and IE11+
++ Custom hooks can be found in the hooks/ directory
++ Redux is used for state management
+
+For more detailed information about the project setup and configuration, please refer to the `package.json` and `tsconfig.json`files.
